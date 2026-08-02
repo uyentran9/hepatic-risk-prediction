@@ -28,9 +28,9 @@ remote_theme: "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/avartar.jpg"
+  avatar           : "avartar.jpg"
   name             : "Victoria Tran (Uyen Tran)" 
-  avatar: "/images/avartar.jpg"
+  avatar: "avartar.jpg"
   pronouns         : # example: "she/her"  
   bio              : "Aspiring AI researcher focusing on machine learning for biomedical and healthcare applications, with interests in representation learning, multimodal and graph-based modeling, and building robust, generalizable systems from real-world data."
   location         : "San Francisco Bay Area, USA"
