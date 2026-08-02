@@ -15,9 +15,9 @@ main:
   - title: "Pipeline"
     url: /pipeline/
   - title: "Code"
-    url: /projects/
+    url: /code/
   - title: "Technical Report"
-    url: /publications/
+    url: /report/
   #- title: "Talks"
     url: /talks/
   #- title: "Teaching"
