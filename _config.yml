@@ -28,7 +28,7 @@ remote_theme: "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jpg"
+  avatar           : "images/avatar.jpg"
   name             : "Victoria Tran (Uyen Tran)"
   avatar: "avatar.jpg"
   pronouns         : # example: "she/her"  
