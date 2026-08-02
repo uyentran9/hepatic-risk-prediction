@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Detailed Project Pipeline"
+permalink: /pipeline/
+author_profile: true
+---
+
 # Detailed Project Pipeline — Hepatic Risk Outcome Prediction
 
 > **AIO 2026 Kaggle Competition 1**  
