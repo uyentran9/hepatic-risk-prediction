@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 #site_theme              : "default" # Currently available options are "default", "air"
-title                    : "Victoria Tran (Uyen Tran) / Academic Website"
+title                    : "Victoria Tran (Uyen Tran) / Website for Kaggle project - Hepatic Risk Outcome Prediction"
 title_separator          : "-"
 #name                     : "Victoria Tran (uyen Tran)"
 description              : "Aspiring AI researcher focusing on machine learning for biomedical and healthcare applications, with interests in representation learning, multimodal and graph-based modeling, and building robust, generalizable systems from real-world data."   # Update this with a general description of your site, this is the default if not overridden by a page
