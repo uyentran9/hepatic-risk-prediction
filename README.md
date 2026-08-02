@@ -23,7 +23,7 @@ A reproducible tabular machine-learning pipeline for predicting three cirrhosis 
 
 ## Project overview
 
-The goal is to predict one of three patient outcomes:
+The goal is to predict probabilities of three patient outcomes (sum to 1):
 
 - `C`: alive
 - `CL`: alive after liver transplant
