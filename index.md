@@ -6,7 +6,7 @@ author_profile: true
 
 <p align="center">
   <img src="{{ site.baseurl }}/images/hepatic-risk.png"
-       width="260"
+       width="460"
        alt="Hepatic Risk Outcome Prediction"
        style="border-radius: 14px;"/>
 </p>
