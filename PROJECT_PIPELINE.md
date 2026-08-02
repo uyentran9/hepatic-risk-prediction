@@ -9,14 +9,7 @@
 
 ---
 
-## How to read this document
-
-This document explains the complete reasoning behind the project in plain language. It is intended for several audiences:
-
-- a reader with no machine-learning background who wants to understand what the project does;
-- a student who wants to learn how a complete tabular machine-learning pipeline is organized;
-- a technical reviewer who wants to inspect the validation, modeling, and experimental logic;
-- a researcher or recruiter who wants to see not only the final score, but also how decisions were made.
+## Overview:
 
 The notebook contains the executable code. The technical report provides a concise, competition-formatted summary. This file provides the detailed narrative that connects the problem, data, code, outputs, decisions, failed experiments, and final conclusion.
 
