@@ -14,8 +14,8 @@ title_separator          : "-"
 #name                     : "Victoria Tran (uyen Tran)"
 description              : "Aspiring AI researcher focusing on machine learning for biomedical and healthcare applications, with interests in representation learning, multimodal and graph-based modeling, and building robust, generalizable systems from real-world data."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://uyentran9.github.io" 
-baseurl                  : "/uyentran-ai-blog"           # the repo name, starting with /
-repository               : "uyentran9/uyentran-ai-blog"
+baseurl                  : "/hepatic-risk-prediction"           # the repo name, starting with /
+repository               : "uyentran9/hepatic-risk-prediction"
 # DO NOT add theme: here, keep remote_theme from academicpages
 remote_theme: "academicpages/academicpages.github.io"
 
@@ -37,7 +37,7 @@ author:
   institution      : "UC Berkeley - Statistics & Economics"
   employer         : "Abbott Diabetes Care"
   uri              : # URL
-  email            : "uyen.victoria.tran@gmail.com" 
+  email            : "myuyen.t.tran.tran@gmail.com" 
 
   # Academic websites
   academia         : # URL
