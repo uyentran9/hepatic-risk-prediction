@@ -8,12 +8,12 @@ author_profile: true
 <p>This page embeds the fully executed notebook, exported directly from Jupyter — every cell, output, and chart exactly as run.</p>
 
 <div class="code-actions">
-  <a class="data-download-btn" href="{{ site.baseurl }}/files/hepatic_risk_outcome_prediction.ipynb" download>⬇ Download .ipynb</a>
-  <a class="data-download-btn code-secondary-btn" href="{{ site.baseurl }}/files/notebook_export.html" target="_blank" rel="noopener">↗ Open full-screen</a>
+  <a class="data-download-btn" href="{{ site.baseurl }}/files/Kaggle1_Uyen.ipynb" download>⬇ Download .ipynb</a>
+  <a class="data-download-btn code-secondary-btn" href="{{ site.baseurl }}/files/Kaggle1_Uyen8.html" target="_blank" rel="noopener">↗ Open full-screen</a>
 </div>
 
 <div id="notebook-wrap" class="notebook-wrap">
-  <iframe id="notebook-frame" src="{{ site.baseurl }}/files/notebook_export.html" loading="lazy"></iframe>
+  <iframe id="notebook-frame" src="{{ site.baseurl }}/files/Kaggle1_Uyen8.html" loading="lazy"></iframe>
 </div>
 
 <style>
@@ -62,7 +62,7 @@ author_profile: true
 
 <script>
 (function () {
-  var url = '{{ site.baseurl }}/files/notebook_export.html';
+  var url = '{{ site.baseurl }}/files/Kaggle1_Uyen8.html';
   fetch(url, { method: 'HEAD' }).then(function (res) {
     if (!res.ok) throw new Error('missing');
   }).catch(function () {
