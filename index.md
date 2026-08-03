@@ -201,7 +201,9 @@ The seed-averaging experiment was even more instructive. It improved OOF Log Los
 
 ## Data and clinical-use notice
 
+<!--
 The competition data are not included in this public repository. Obtain them only through the authorized AIO competition channel and follow the organizer's sharing rules.
+-->
 
 This project is an educational machine-learning exercise and is **not intended for clinical decision-making or medical use**.
 
