@@ -9,9 +9,6 @@ toc_icon: "cogs"
 toc_sticky: true
 ---
 
-
-# Detailed Project Pipeline — Hepatic Risk Outcome Prediction
-
 > **AIO 2026 Kaggle Competition 1**  
 > **Author:** Uyen Tran (Victoria Tran)  
 > **Task:** Predict three possible hepatic outcomes from structured clinical records  
