@@ -8,7 +8,7 @@ author_profile: true
 <p>This page embeds the fully executed notebook, exported directly from Jupyter — every cell, output, and chart exactly as run.</p>
 
 <div class="code-actions">
-  <a class="data-download-btn" href="{{ site.baseurl }}/files/Kaggle1_Uyen.ipynb" download>⬇ Download .ipynb</a>
+  <a class="data-download-btn" href="{{ site.baseurl }}/files/hepatic_risk.ipynb" download>⬇ Download .ipynb</a>
   <a class="data-download-btn code-secondary-btn" href="{{ site.baseurl }}/files/Kaggle1_Uyen8.html" target="_blank" rel="noopener">↗ Open full-screen</a>
 </div>
 
