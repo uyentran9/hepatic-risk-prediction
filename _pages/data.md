@@ -7,9 +7,11 @@ author_profile: true
 
 <p>Three files are used in this competition: the training set, the test set, and a sample submission file showing the required output format. Each preview below shows the first 20 rows and every column. Use the download buttons to get the full files.</p>
 
+<!--
 <div class="data-note">
   <strong>Note:</strong> competition data is redistributed here only if permitted by the AIO competition rules. If a file below fails to load, it has not been uploaded to <code>/files/</code> yet.
 </div>
+-->
 
 <section class="data-block">
   <h2>Training set — <code>aio26_train.csv</code></h2>
