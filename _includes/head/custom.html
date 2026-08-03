@@ -1,0 +1,25 @@
+<style>
+  /* Mở rộng khung nội dung chính, không bị giới hạn max-width nữa */
+  #main,
+  .page,
+  .archive {
+    max-width: 100% !important;
+  }
+
+  /* Cho cột chữ chút khoảng thở 2 bên, không dính sát mép trình duyệt */
+  #main {
+    padding-left: 2em !important;
+    padding-right: 2em !important;
+  }
+
+  /* Ở màn hình rộng: giữ sidebar gọn lại, nhường phần lớn không gian cho nội dung */
+  @media (min-width: 80em) {
+    .sidebar {
+      width: 15em !important;
+    }
+    .page {
+      width: calc(100% - 15em) !important;
+      padding-right: 0 !important;
+    }
+  }
+</style>
