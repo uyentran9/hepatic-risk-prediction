@@ -78,3 +78,11 @@
   color: var(--global-text-color);
   border-bottom: 2px solid var(--global-text-color);
 } 
+
+/* Cho phép tiêu đề site dài xuống dòng thay vì chiếm hết chiều ngang */
+.masthead__menu-item--lg {
+  white-space: normal;
+  max-width: 22em;
+  line-height: 1.25;
+} 
+
