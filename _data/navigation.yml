@@ -17,7 +17,9 @@ main:
   - title: "Code"
     url: /code/
   - title: "Technical Report"
-    url: /report/
+    url: /report/ 
+  - title: "Uyen's Academic Profile"
+    url: https://uyentran9.github.io/uyentran-ai-blog/
   #- title: "Talks"
   # url: /talks/
   #- title: "Teaching"
