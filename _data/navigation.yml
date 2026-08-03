@@ -11,7 +11,7 @@ main:
   - title: "Home"
     url: /
   - title: "Data"
-    url: /
+    url: /dataset/
   - title: "Pipeline"
     url: /pipeline/
   - title: "Code"
@@ -19,19 +19,19 @@ main:
   - title: "Technical Report"
     url: /report/
   #- title: "Talks"
-    url: /talks/
+  # url: /talks/
   #- title: "Teaching"
-    url: /teaching/
+  #  url: /teaching/
   #- title: "Portfolio"
-    url: /portfolio/
+  #  url: /portfolio/
   #- title: "CV"
-    url: /cv/ 
+  #  url: /cv/ 
   #- title: "Contact"
-    url: /contact/
+  #  url: /contact/
 
     
   # - title: "CV"
   #   url: /cv-json/
     
   #- title: "Guide"
-    url: /markdown/
+  #  url: /markdown/
