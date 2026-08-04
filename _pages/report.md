@@ -77,6 +77,20 @@ author_profile: true
 
 ## Presentation Slides
 
+<p>Slides summarizing the project's motivation, methodology, and key results.</p>
+<div class="report-actions">
+  <a class="report-btn" href="{{ site.baseurl }}/files/UyenTran_Hepatic_Risk_Prediction_Slides.pptx" download>⬇ Download the .pptx file</a>
+  <a class="report-btn report-secondary-btn" href="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fuyentran9.github.io%2Fhepatic-risk-prediction%2Ffiles%2FUyenTran_Hepatic_Risk_Prediction_Slides.pptx" target="_blank" rel="noopener">↗ Open full-screen</a>
+</div>
+<div class="report-wrap">
+  <iframe
+    src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fuyentran9.github.io%2Fhepatic-risk-prediction%2Ffiles%2FUyenTran_Hepatic_Risk_Prediction_Slides.pptx"
+    loading="lazy"
+    frameborder="0">
+  </iframe>
+</div> 
+
+<!--
 <iframe
   src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fuyentran9.github.io%2Fhepatic-risk-prediction%2Ffiles%2FUyenTran_Hepatic_Risk_Prediction_Slides.pptx"
   width="100%"
@@ -85,3 +99,5 @@ author_profile: true
 </iframe>
 
 [⬇ Download the .pptx file](/hepatic-risk-prediction/files/UyenTran_Hepatic_Risk_Prediction_Slides.pptx)
+-->
+
