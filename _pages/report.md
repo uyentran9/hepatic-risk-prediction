@@ -5,6 +5,8 @@ permalink: /report/
 author_profile: true
 ---
 
+## Technical report
+
 <p>The full technical report documenting the problem formulation, data analysis, modeling approach, experimental results, and limitations of the Hepatic Risk Outcome Prediction project.</p>
 
 <div class="report-actions">
