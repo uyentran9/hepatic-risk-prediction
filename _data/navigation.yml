@@ -16,7 +16,7 @@ main:
     url: /pipeline/
   - title: "Code"
     url: /code/
-  - title: "Technical Report"
+  - title: "Technical Report & Slides"
     url: /report/ 
   - title: "Uyen's Academic Profile"
     url: https://uyentran9.github.io/uyentran-ai-blog/
