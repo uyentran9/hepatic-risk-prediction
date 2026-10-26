@@ -3162,4 +3162,9 @@ The final HTML contains 73 cells. The map below connects the rendered notebook t
 
 This map confirms that the pipeline narrative is not inferred from model names alone. It is grounded in the actual executed code and outputs of the final notebook.
 
-Thank you for visiting — and for being part of my journey 🌱
+
+<p style="margin-top:24px;">
+<a href="{{ '/' | relative_url }}" style="background:#1f4d7a;color:#fff;padding:10px 16px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;"> 🏠 Back to Home </a>
+</p>
+
+Thank you for visiting — and for being part of my journey 🌱  
