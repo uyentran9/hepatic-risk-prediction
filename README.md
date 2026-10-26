@@ -1,16 +1,23 @@
 ---
-title: "AIO 2026 - Kaggle 1 - Hepatic Risk Outcome Prediction"
+title: "Kaggle Project - Hepatic Risk Outcome Prediction"
 layout: single
 author_profile: true
 --- 
 
+<!--
 <p align="center">
   <img src="{{ site.baseurl }}/images/hepatic-risk.png"
        width="960"
        alt="Hepatic Risk Outcome Prediction"
        style="border-radius: 14px;"/>
 </p>
+-->  
 
+<p align="center">
+  <img src="images/hepatic-risk.png"
+       width="960"
+       alt="Vanishing Gradients and Early-Layer Trainability in Deep MLPs"/>
+</p>
 
 # Hepatic Risk Outcome Prediction
 
