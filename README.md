@@ -210,5 +210,5 @@ This project is an educational machine-learning exercise and is **not intended f
 ## Author
 
 **Uyen Tran (Victoria Tran)**  
-Individual submission, AIO 2026 Kaggle Competition 1
+Individual submission, AIO Kaggle Competition 1
 
