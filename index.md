@@ -1,5 +1,5 @@
 ---
-title: "AIO 2026 - Kaggle 1 - Hepatic Risk Outcome Prediction"
+title: "Kaggle Competition - Hepatic Risk Outcome Prediction"
 layout: single
 author_profile: true
 --- 
