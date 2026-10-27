@@ -16,7 +16,7 @@ author_profile: true
 
 A reproducible tabular machine-learning pipeline for predicting three cirrhosis outcomes from demographic, clinical, laboratory, and treatment-related records.
 
-> **Educational project:** AIO 2026 Kaggle Competition 1  
+> **Educational project:** Kaggle Competition   
 > **Task:** Multiclass probability prediction (`C`, `CL`, `D`)  
 > **Primary metric:** Multiclass Log Loss  
 > **Final reliable result:** OOF Log Loss **0.37010** | Public Leaderboard **0.38042**
@@ -209,8 +209,8 @@ This project is an educational machine-learning exercise and is **not intended f
 
 ## Author
 
-**Uyen Tran (Victoria Tran)**  
-Individual submission, AIO 2026 Kaggle Competition 1
+**Victoria Tran (My-Uyen Tran)**  
+Individual submission, Kaggle Competition 1
 
 
 
