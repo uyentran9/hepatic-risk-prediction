@@ -20,22 +20,36 @@ author_profile: true
 
 <style>
 .report-actions { margin: 1em 0 1.5em; display: flex; gap: 0.75em; flex-wrap: wrap; }
+
+/* Shared report button styling */
 .report-btn {
   display: inline-block;
   padding: 0.5em 1.1em;
   font-size: 0.9rem;
   font-weight: 600;
-  color: #fff !important;
-  background: var(--global-base-color, #2f6f4f);
   border-radius: 4px;
   text-decoration: none !important;
 }
-.report-btn:hover { opacity: 0.85; }
-.report-secondary-btn {
-  background: transparent;
-  color: var(--global-base-color, #2f6f4f) !important;
-  border: 1px solid var(--global-base-color, #2f6f4f);
+
+/* Navy buttons matching Back to Home */
+.report-btn,
+.report-btn:visited,
+.report-secondary-btn,
+.report-secondary-btn:visited {
+  background: #1f4d7a !important;
+  color: #ffffff !important;
+  border: 1px solid #1f4d7a !important;
 }
+
+/* Darker navy on hover */
+.report-btn:hover,
+.report-btn:focus-visible {
+  background: #173b5e !important;
+  color: #ffffff !important;
+  border-color: #173b5e !important;
+  text-decoration: none !important;
+}
+
 .report-wrap {
   border: 1px solid var(--global-border-color, #e8e8e8);
   border-radius: 8px;
