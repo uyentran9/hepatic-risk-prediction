@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Kaggle - Hepatic Risk Outcome Prediction"
 title_separator          : "-"
 #name                     : "Victoria Tran (My-Uyen Tran)"
-description              : "Aspiring AI researcher focusing on machine learning for biomedical and healthcare applications, with interests in representation learning, multimodal and graph-based modeling, and building robust, generalizable systems from real-world data."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : "Aspiring AI researcher focusing on machine learning for biomedical and scientific discovery, with research interests in representation learning, multimodal learning, graph machine learning, and reliable, generalizable models."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://uyentran9.github.io" 
 baseurl                  : "/hepatic-risk-prediction"           # the repo name, starting with /
 repository               : "uyentran9/hepatic-risk-prediction"
