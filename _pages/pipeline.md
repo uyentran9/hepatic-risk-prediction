@@ -9,8 +9,8 @@ toc_icon: "cogs"
 toc_sticky: true
 ---
 
-> **AIO 2026 Kaggle Competition 1**  
-> **Author:** Uyen Tran (Victoria Tran)  
+> **Kaggle Competition**  
+> **Author:** Victoria Tran (My-Uyen Tran)
 > **Task:** Predict three possible hepatic outcomes from structured clinical records  
 > **Evaluation metric:** Multiclass Log Loss  
 > **Final reliable submission:** `submission_blend_optimised_v3.csv`  
