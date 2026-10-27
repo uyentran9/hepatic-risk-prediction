@@ -17,7 +17,7 @@ url                      : "https://uyentran9.github.io"
 baseurl                  : "/hepatic-risk-prediction"           # the repo name, starting with /
 repository               : "uyentran9/hepatic-risk-prediction"
 # DO NOT add theme: here, keep remote_theme from academicpages
-remote_theme: "academicpages/academicpages.github.io"
+remote_theme: "academicpages/academicpages.github.io@v0.8.4"
 
 # the rest of your existing config stays the same under here
 # (collections, plugins, author profile, etc.)
