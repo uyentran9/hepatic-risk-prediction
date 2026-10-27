@@ -24,16 +24,18 @@ author_profile: true
   font-size: 0.9rem;
   font-weight: 600;
   color: #fff !important;
-  background: var(--global-base-color, #2f6f4f);
+  background: #1f4d7a;
   border-radius: 4px;
   text-decoration: none !important;
 }
 .data-download-btn:hover { opacity: 0.85; }
+
 .code-secondary-btn {
-  background: transparent;
-  color: var(--global-base-color, #2f6f4f) !important;
-  border: 1px solid var(--global-base-color, #2f6f4f);
+    background: #eef5fb;
+    color: #1f4d7a !important;
+    border: 1px solid #1f4d7a;
 }
+
 .notebook-wrap {
   border: 1px solid var(--global-border-color, #e8e8e8);
   border-radius: 8px;
