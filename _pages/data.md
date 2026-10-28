@@ -97,7 +97,43 @@ author_profile: true
   padding: 1em;
   font-size: 0.85rem;
   color: var(--global-text-color-light, #888);
+}  
+  
+/* Consistent, readable data tables in Light and Dark Mode */
+.data-table-wrap table {
+  background-color: #ffffff !important;
+  color: #243247 !important;
 }
+
+/* Table headers: navy background and white text */
+.data-table-wrap table thead th {
+  background-color: #1f4d7a !important;
+  color: #ffffff !important;
+  border-color: #d6e0e8 !important;
+}
+
+/* Odd rows: white background and dark text */
+.data-table-wrap table tbody tr:nth-child(odd) td {
+  background-color: #ffffff !important;
+  color: #243247 !important;
+}
+
+/* Even rows: light blue-gray background and dark text */
+.data-table-wrap table tbody tr:nth-child(even) td {
+  background-color: #f0f4f8 !important;
+  color: #243247 !important;
+}
+
+/* Visible borders between cells */
+.data-table-wrap table tbody td {
+  border-bottom: 1px solid #d6e0e8 !important;
+}
+
+/* Missing values: muted but still readable */
+.data-table-wrap table tbody td em {
+  color: #64748b !important;
+}
+
 </style>
 
 <script>
