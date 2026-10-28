@@ -210,7 +210,7 @@ This project is an educational machine-learning exercise and is **not intended f
 ## Author
 
 **Victoria Tran (My-Uyen Tran)**  
-Individual submission, Kaggle Competition 1
+Individual submission, Kaggle Competition 
 
 
 
